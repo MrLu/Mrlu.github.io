@@ -10,5 +10,16 @@ order: 4
 # MIT License
 ---
 
+Mrlu 工作、学习日记
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+---
+
+## shell
+Shell skill 日常 编写shell脚本积累的一些，方式和技巧收录。
+以备平时快速开发使用
+
+## macos
+mac cocoaapp 开发记录
+
+## iOS
+iOS 开发记录
